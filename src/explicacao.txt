@@ -1,0 +1,11 @@
+
+métodos http
+
+get - http://localhost:3333/users
+post
+put
+delete
+patch
+
+extensao no chrome
+Json Web Viewer
